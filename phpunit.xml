@@ -2,7 +2,7 @@
 
 <phpunit bootstrap="Bootstrap.php" color="true">
     <logging>
-        <log type="coverage-html"  target="build/coverage" title="BazaarSocial"
+        <log type="coverage-html"  target="build/coverage" title="BazaarSocials"
         charset="UTF-8" yui="true" highlight="true"
         lowUpperBound="35" highLowerBound="true" />
         <log type="coverage-clover" target="build/logs/clover.xml" />
